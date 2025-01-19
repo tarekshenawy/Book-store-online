@@ -1,0 +1,46 @@
+.Authors{
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    text-align: center;
+}
+
+.authors_search{
+    display: block;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+  margin: 20px auto;
+    padding: 0px 20px;
+    font-size: 18px;
+   
+}
+.auhtor_cart{
+    margin-bottom: 25px;
+    line-height: 50px;
+    border: 1px solid gray;
+    margin-right: 20px;
+    padding: 20px 15px;
+
+}
+.author_image{
+    width: 300px;
+    height: 300px;
+}
+
+@media(max-width:850px){
+    .Authors{
+        display: grid;
+        grid-template-columns: 1fr ;
+
+    }
+}
+@media(min-width:851px )and (max-width:1000px){
+    .Authors{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+
+    }
+}
+

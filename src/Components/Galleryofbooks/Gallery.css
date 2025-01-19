@@ -1,0 +1,40 @@
+.Gallery_title{
+    text-align: center;
+    margin-bottom: 40px;
+    cursor: pointer;
+    color: chocolate;
+}
+
+.gallery-slider{
+    padding:0px 5%;
+    border:1px solid gray;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px 10px; 
+}
+
+.gallery-slider .image_slide{
+    width: 250px;
+   height: 250px;
+   margin-bottom: 10px;
+
+}
+.gallery-reviews{
+    display:flex;
+    align-items: center;
+    gap: 5px;
+}
+.gallery-slider .book_price{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+.gallery-slider .book-display{
+    display:flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 10px;
+    cursor:pointer;
+
+}

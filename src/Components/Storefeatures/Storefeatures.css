@@ -1,0 +1,23 @@
+.storefeatures{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    padding: 10px 5%;
+    margin: 80px auto;
+    flex-wrap: wrap;
+}
+.storefeatures img{
+    width: 80px;
+}
+.storefeatures .features{
+   min-width: 250px;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+    margin: 15px 1px;
+    
+}

@@ -1,0 +1,134 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Paris Apartment",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/The-Paris-Apartment.jpg",
+      "price": "20",
+      "author": "Lucy Foley",
+      "reviews": "17869"
+    },
+    {
+      "id": "2",
+      "name": "The Sanctuary",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/The-Sanctuary-999x1536.jpg",
+      "price": "35",
+      "author": "Katrine Engberg",
+      "reviews": "17878"
+    },
+    {
+      "id": "3",
+      "name": "Act of Oblivion",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Act-of-Oblivion-990x1536.jpg",
+      "price": "25",
+      "author": "Robert Harris",
+      "reviews": "1128"
+    },
+    {
+      "id": "4",
+      "name": "Leviathan Falls",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Leviathan-Falls.jpg",
+      "price": "22",
+      "author": "James S. A. Corey",
+      "reviews": "17963"
+    },
+    {
+      "id": "5",
+      "name": "Book of Night",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Book-of-Night-by-Holly-Black.jpg",
+      "price": "15",
+      "author": "Holly Black",
+      "reviews": "11142"
+    },
+    {
+      "id": "6",
+      "name": "Skandar and the Unicorn Thief",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Skandar-1.jpg",
+      "price": "40",
+      "author": " A.F. Steadman",
+      "reviews": "14523"
+    },
+    {
+      "id": "7",
+      "name": "Harry Potter 25th anniversary",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Harry-Potter-992x1536.jpg",
+      "price": "23",
+      "author": "Joanne Rowling",
+      "reviews": "18745"
+    },
+    {
+      "id": "8",
+      "name": "Again, Rachel",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Again-Rachel-768x1224.jpg",
+      "price": "28",
+      "author": "Marian Keyes",
+      "reviews": "12436"
+    },
+    {
+      "id": "9",
+      "name": "Love Marriage",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Love-Marriage.jpg",
+      "price": "45",
+      "author": "Love Marriage",
+      "reviews": "15786"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "Leviathan Falls",
+      "image": "https://ar.timeoutriyadh.com/cloud/artimeoutriyadh/2022/01/26/Leviathan-Falls.jpg",
+      "price": "22",
+      "author": "James S. A. Corey",
+      "reviews": "17963",
+      "quantity": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "author": "Naguib Mahfouz",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f56423f4aca615934476295/1637228279047-ZHHLDV94X2MS7EOTWDEX/naguib+1.jpg"
+    },
+    {
+      "id": "2",
+      "author": "Nizar Qabbani",
+      "image": "https://i0.wp.com/arablit.org/wp-content/uploads/2020/09/the-great-poet-nizar-qabbani-could-make-you-fall-in-love-with-the-power-of-words.jpg?ssl=1"
+    },
+    {
+      "id": "3",
+      "author": "Ibn Khaldun",
+      "image": "https://cdn.elwatannews.com/watan/840x473/11752965631584534362.jpg"
+    },
+    {
+      "id": "4",
+      "author": "Taha Hussein",
+      "image": "https://www.sis.gov.eg/Content/Upload/slider/4201622224212908.jpg"
+    },
+    {
+      "id": "5",
+      "author": "George Orwell",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/George_Orwell%2C_c._1940_%2841928180381%29.jpg/1200px-George_Orwell%2C_c._1940_%2841928180381%29.jpg"
+    },
+    {
+      "id": "6",
+      "author": "Paulo Coelho",
+      "image": "https://cdn.britannica.com/67/126567-050-A5C3A312/Paulo-Coelho-departure-themes-thriller-serial-killer-2008.jpg"
+    },
+    {
+      "id": "7",
+      "author": "James Augustine",
+      "image": "https://boringbooks.net/wp-content/uploads/2013/01/image.jpg"
+    },
+    {
+      "id": "8",
+      "author": "Philip K. Dick",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Philip_K_Dick_in_early_1960s_%28photo_by_Arthur_Knight%29_02_%28cropped%29.jpg"
+    },
+    {
+      "id": "9",
+      "author": "Ahmed Khaled Tawfik",
+      "image": "https://upload.wikimedia.org/wikipedia/ar/a/a9/%D8%A3%D8%AD%D9%85%D8%AF_%D8%AE%D8%A7%D9%84%D8%AF_%D8%AA%D9%88%D9%81%D9%8A%D9%82.jpg"
+    }
+  ]
+}

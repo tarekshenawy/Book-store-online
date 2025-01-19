@@ -1,0 +1,78 @@
+nav .main-header{
+    padding:10px 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: chocolate;
+}
+nav .main-header .book_logo{
+    width: 60px;
+}
+nav .main-header h2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #fff;
+    transition: .5s;
+}
+
+nav .main-header .search-input{
+   background-color: #fff;
+   width: 50%;
+   padding: 10px 20px;
+   border-radius: 40px;
+   display: flex;
+   align-items: center;
+   gap: 5px;
+}
+nav .main-header .search-input input{
+    width: 95%;
+    height:30px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+nav .cart_icon{
+    position: relative;
+}
+nav .cart_icon .count{
+    position: absolute;
+    bottom: 25px;
+    right: -22px;
+   background-color: red;
+   padding: 5px;
+  width: 30px;
+   color: #fff;
+   font-size: 14px;
+   border-radius: 30px;
+   text-align: center;
+
+}
+nav .menuHeader ul{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin: auto;
+    padding: 10px 0px;
+    font-size: 19px;
+    font-weight: bold;
+    color: gray;
+    
+}
+nav .menuHeader ul :hover{
+    color: blue;
+    cursor: pointer;
+}
+nav .logout button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+
+}

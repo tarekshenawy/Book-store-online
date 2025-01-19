@@ -1,0 +1,43 @@
+.slide{
+    justify-content: space-between;
+    padding: 5% 5%;
+}
+.slide h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.slide p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.slide img{
+  
+    width: 400px;
+}
+
+@media (max-width : 600px){
+    .slide img{
+       width: 150px;
+        
+    }
+    .slide h2{
+        font-size: 17px;
+    }
+    .slide p{
+        font-size: 14px;
+    }
+
+}
+@media (min-width:600px) and (max-width:900px){
+    .slide img{
+        width: 250px;
+         
+     }
+     .slide h2{
+         font-size: 22px;
+     }
+     .slide p{
+         font-size: 16px;
+     }
+}
